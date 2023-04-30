@@ -763,409 +763,328 @@
 	"tokenColors": [
 		{
 			"scope": [
+				"punctuation",
+				"punctuation.section.embedded",
+				"meta.function-call",
+				"punctuation.definition.constant.hashkey",
+				"keyword.operator.assignment.ruby",
+				"entity.name.function.call.cpp",
+				"entity.name.function.member.cpp",
+				"variable.other.property",
+				"meta.brace.round.ts",
+				"meta.brace.square.ts",
+				"keyword.operator.type.ts",
+				"keyword.operator.type.annotation.ts",
+				"meta.function-call.ts",
+				"keyword.operator.assignment.ts",
+				"keyword.operator.relational.ts",
+				"keyword.operator.increment.ts",
+				"keyword.operator.bitwise.shift.ts",
+				"keyword.operator.bitwise.ts",
+				"punctuation.separator.key-value.ts",
+				"keyword.operator.assignment.js",
+				"keyword.operator.relational.js",
+				"keyword.operator.increment.js",
+				"keyword.operator.bitwise.shift.js",
+				"keyword.operator.bitwise.js",
+				"variable.other.object.property.js",
+				"support.variable.property.js",
+				"meta.brace.round.js",
+				"meta.brace.square.js",
+				"keyword.generator.asterisk.js",
+				"keyword.operator.combinator.css",
+				"meta.property-name.css",
+				"punctuation.definition.constant.css",
+				"punctuation.separator.key-value.mapping.yaml",
+				"string.unquoted.plain.out.yaml",
+				"source.sql",
+				"constant.other.table-name.sql",
+				"meta.function.call.rust"
+			],
+			"settings": {
+				"foreground": "#D1CCF1"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.comment",
 				"comment"
 			],
 			"settings": {
-				"foreground": "#808080"
+				"foreground": "#BEA17F",
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": [
-				"markup.fenced_code.block.markdown",
-				"markup.fenced_code.block.markdown support.function"
+				"comment.line.keyword.yard",
+				"comment.line.keyword.punctuation.yard",
+				"comment.line.punctuation.yard"
 			],
 			"settings": {
-				"foreground": "#72737A"
+				"foreground": "#F1CB9F",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
 			"scope": [
-				"keyword",
-				"keyword.operator.new",
-				"variable.language.this",
-				"constant.character.escape",
-				"meta.namespace.declaration",
-				"punctuation.terminator.rule.css",
-				"punctuation.terminator.statement",
-				"punctuation.separator.comma",
-				"punctuation.separator.parameter",
-				"punctuation.separator.dictionary.key-value.json",
-				"punctuation.separator.dictionary.key-value.json.comments",
-				"punctuation.separator.dictionary.pair.json",
-				"punctuation.separator.dictionary.pair.json.comments",
-				"punctuation.separator.array.json",
-				"punctuation.separator.array.json.comments",
-				"punctuation.separator.list.comma.css",
-				"punctuation.section.embedded.begin.php",
-				"punctuation.section.embedded.end.php",
-				"constant.language",
-				"support.function.construct.php",
-				"punctuation.terminator.expression.php",
-				"storage.type",
-				"keyword.operator.or.regexp",
-				"constant.character.escape.backslash.regexp",
-				"storage.type.function",
-				"keyword.operator.expression.typeof",
-				"support.type.primitive",
-				"punctuation.terminator.rule",
+				"support.function.kernel.ruby",
+				"keyword.other",
+				"keyword.operator",
+				"keyword.control",
+				"keyword.other.special-method",
+				"punctuation.separator.key-value",
+				"variable.language",
+				"storage.type.variable",
 				"storage.modifier",
-				"punctuation.definition.keyword",
-				"punctuation.definition.block.begin.svelte",
-				"punctuation.definition.block.end.svelte",
-				"punctuation.section.embedded.begin.svelte",
-				"punctuation.section.embedded.end.svelte",
-				"meta.script.svelte entity.name.label",
-				"meta.script.svelte punctuation.separator.label",
-				"keyword.operator.redirect.shell",
-				"keyword.operator.list.shell",
-				"keyword.operator.expansion.shell",
-				"entity.name.tag.yaml",
-				"punctuation.definition.list.begin.markdown",
+				"storage.type.built-in.primitive.cpp",
+				"storage.type.primitive.cpp",
+				"punctuation.separator.pointer-access.cpp",
+				"punctuation.definition.heading.markdown",
+				"punctuation.definition.constant.markdown",
 				"punctuation.definition.string.begin.markdown",
 				"punctuation.definition.string.end.markdown",
-				"punctuation.definition.metadata.markdown",
-				"meta.directive.vue keyword.operator.expression.in.js",
-				"keyword.operator.nulltype.graphql",
-				"meta.at-rule.media keyword.operator.logical",
-				"entity.other.inherited-class.variant.twin",
-				"text.html.derivative punctuation.definition.block.ts",
-				"keyword.operator.expression",
-				"variable.other.env",
-				"support.type.builtin",
-				"meta.function.color.css",
-				"entity.name.type.terraform",
-				"entity.name.label.terraform",
-				"punctuation.comma.graphql"
-			],
-			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"entity.name.function",
-				"support.function",
-				"support.constant.property-value.misc.css",
-				"entity.name.fragment.graphql",
-				"variable.fragment.graphql"
-			],
-			"settings": {
-				"foreground": "#E8BF6A",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"meta.selector.css",
-				"support.function.misc.css",
-				"entity.name.tag",
-				"keyword.other.doctype.xml",
-				"meta.at-rule.header.css",
-				"punctuation.definition.tag",
-				"entity.other.attribute-name.class.tailwind",
-				"entity.other.attribute-name.css",
-				"entity.other.attribute-name.class.css",
-				"entity.other.attribute-name.class.mixin.css",
-				"entity.other.attribute-name.id.css",
-				"entity.other.attribute-name.parent-selector.css",
-				"entity.other.attribute-name.pseudo-class.css",
-				"entity.other.attribute-name.pseudo-element.css",
-				"source.css.less entity.other.attribute-name.id",
-				"entity.other.attribute-name.attribute.scss",
-				"entity.other.attribute-name.scss",
-				"markup.inline.raw.string.markdown",
-				"punctuation.definition.markdown",
-				"fenced_code.block.language",
-				"punctuation.definition.character-class.regexp",
-				"constant.other.character-class.regexp",
-				"punctuation.definition.group.regexp",
-				"punctuation.definition.group.assertion.regexp",
-				"support.class.component",
-				"variable.parameter.keyframe-list",
-				"entity.other.keyframe-offset",
-				"support.constant.font-name.css",
-				"source.css entity.name.tag",
-				"entity.other.attribute-name.id punctuation.definition.entity",
-				"entity.other.attribute-name.pseudo-class"
-			],
-			"settings": {
-				"foreground": "#E8BF6A",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"punctuation.decorator",
-				"meta.decorator entity.name.function"
-			],
-			"settings": {
-				"foreground": "#BBB529",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"support.constant.property-value.css",
-				"meta.property-value.css",
-				"meta.property-value.css variable.parameter",
-				"meta.property-value.scss variable.parameter",
-				"meta.property-value.css keyword.other.unit",
-				"meta.property-value.scss keyword.other.unit",
-				"meta.property-value.media-query keyword.other.unit",
-				"meta.at-rule.media keyword.other.unit",
-				"meta.definition.variable.scss keyword.other.unit",
-				"punctuation.separator.key-value.svelte",
-				"punctuation.separator.key-value.html",
-				"string.unquoted.svelte",
-				"string.quoted.svelte",
-				"string.quoted.double.html",
-				"string.quoted.html",
-				"string.quoted.single.html",
-				"string.unquoted.html",
-				"meta.directive.vue punctuation.definition.string.begin.html",
-				"meta.directive.vue punctuation.definition.string.end.html",
+				"punctuation.definition.list.begin.markdown",
+				"storage.type.function.arrow.ts",
+				"storage.type.function.ts",
+				"storage.type.interface.ts",
+				"storage.type.enum.ts",
 				"support.constant.media.css",
-				"support.constant.color.w3c-standard-color-name.css"
+				"support.constant.property-value.css",
+				"support.constant.font-name.css",
+				"entity.name.type.primitive.rust",
+				"entity.name.type.numeric.rust"
 			],
 			"settings": {
-				"foreground": "#A5C261",
+				"foreground": "#c94c4c",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"variable.parameter",
+				"constant.other.symbol.hashkey.parameter.function",
+				"variable.other",
+				"comment.line.parameter.yard",
+				"markup.inline.raw.string.markdown",
+				"markup.fenced_code.block.markdown",
+				"entity.other.attribute-name.html",
+				"constant.other.color.rgb-value.hex.css",
+				"support.constant.color.w3c-standard-color-name.css",
+				"constant.other.database-name.sql"
+			],
+			"settings": {
+				"foreground": "#ffcd44ce",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.string.begin",
+				"punctuation.definition.string.end",
+				"string"
+			],
+			"settings": {
+				"foreground": "#63946b"
+			}
+		},
+		{
+			"scope": "meta.embedded.line",
+			"settings": {
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": [
-				"variable.other.jsdoc",
-				"entity.name.type.instance.jsdoc",
-				"keyword.operator.assignment.jsdoc"
-			],
-			"settings": {
-				"foreground": "#8A653B",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": [
-				"comment.block.documentation"
-			],
-			"settings": {
-				"foreground": "#629755",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": [
-				"punctuation.definition.block.tag.jsdoc",
-				"storage.type.class.jsdoc"
-			],
-			"settings": {
-				"foreground": "#629755",
-				"fontStyle": "italic bold underline"
-			}
-		},
-		{
-			"scope": [
-				"string",
 				"string.regexp",
-				"constant.other.character-class.range.regexp",
-				"constant.other.character-class.set.regexp",
-				"meta.embedded.expression string.quoted",
-				"punctuation.definition.string.template.begin.twin",
-				"punctuation.definition.string.template.end.twin",
-				"support.constant.classname.twin",
-				"punctuation.section.embedded.short-css.begin.twin",
-				"punctuation.section.embedded.short-css.end.twin",
-				"entity.name.variable.css-value.twin",
-				"meta.attribute-selector",
-				"source.env",
-				"constant.numeric.env",
-				"meta.tag.attributes keyword.operator.assignment"
+				"punctuation.section.regexp"
 			],
 			"settings": {
-				"foreground": "#6A8759",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"markup.quote.markdown"
-			],
-			"settings": {
-				"foreground": "#6A8759",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": [
-				"meta.type.parameters.ts",
-				"meta.type.parameters.tsx",
-				"meta.type.parameters.ts entity.name.type.ts",
-				"meta.type.parameters.tsx entity.name.type.tsx"
-			],
-			"settings": {
-				"foreground": "#507874",
+				"foreground": "#A6CC5F",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": [
 				"constant.numeric",
-				"string.regexp punctuation.definition.string.begin",
-				"string.regexp punctuation.definition.string.end",
-				"constant.other.color.rgb-value.hex.css",
-				"keyword.operator.quantifier.regexp"
+				"keyword.other.unit.em.css",
+				"keyword.other.unit.percentage.css",
+				"keyword.other.unit.rem.css",
+				"keyword.other.unit.px.css"
 			],
 			"settings": {
-				"foreground": "#6897BB",
+				"foreground": "#EEE385"
+			}
+		},
+		{
+			"scope": [
+				"support.class",
+				"meta.class",
+				"entity.name.type.class.ruby",
+				"entity.other.inherited-class.ruby",
+				"entity.name.type.module",
+				"meta.module.ruby",
+				"variable.other.constant",
+				"comment.line.type.yard",
+				"entity.name.scope-resolution.cpp",
+				"entity.name.scope-resolution.template.call.cpp",
+				"entity.name.scope-resolution.parameter.cpp",
+				"entity.name.scope-resolution.function.call.cpp",
+				"markup.heading",
+				"constant.other.reference.link.markdown",
+				"string.other.link.title.markdown",
+				"meta.selector.css",
+				"entity.name.namespace.rust",
+				"entity.name.type.enum.ts",
+				"variable.other.readwrite.alias.ts"
+			],
+			"settings": {
+				"foreground": "#4B82E9",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": [
-				"variable.scss"
+				"constant.other.symbol.ruby",
+				"constant.language.symbol",
+				"constant.other.symbol.hashkey.ruby",
+				"markup.underline.link.markdown",
+				"meta.link.inline.markdown",
+				"support.type.property-name.json",
+				"meta.object-literal.key.ts",
+				"meta.object-literal.key.js",
+				"entity.name.tag.html",
+				"punctuation.separator.key-value.css",
+				"punctuation.terminator.rule.css",
+				"entity.name.tag.yaml"
 			],
 			"settings": {
-				"foreground": "#6D9CBE",
+				"foreground": "#7DCFCF",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": [
-				"markup.underline.link.image.markdown",
-				"markup.underline.link.markdown"
+				"variable.other.readwrite.class",
+				"variable.other.readwrite.instance",
+				"punctuation.definition.variable",
+				"variable.other.readwrite.global",
+				"variable.other.property"
 			],
 			"settings": {
-				"foreground": "#589DF6",
+				"foreground": "#EEE0E0",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": [
-				"meta.object-literal.key",
-				"variable",
-				"variable.other.object.property",
-				"variable.other.constant.property",
-				"support.type.property-name",
-				"support.type.property-name.json.comments",
-				"punctuation.support.type.property-name.end.json.comments",
-				"punctuation.support.type.property-name.begin.json.comments",
-				"support.type.object.module",
-				"support.variable.property",
-				"meta.field.declaration.tsx entity.name.function.tsx",
-				"meta.tag.block.any.html meta.directive.vue variable.other.readwrite.js",
-				"entity.other.ng-binding-name"
+				"constant.language",
+				"variable.language.this"
 			],
 			"settings": {
-				"foreground": "#9876AA",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"entity.other.ng-binding-name.ngFor.html",
-				"entity.other.ng-binding-name.ngForOf.html",
-				"entity.other.ng-binding-name.ngIf.html",
-				"entity.other.ng-binding-name.ngClass.html",
-				"entity.other.ng-binding-name.ngStyle.html"
-			],
-			"settings": {
-				"foreground": "#9876AA",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": [
-				"support",
-				"support.constant.math",
-				"support.constant.dom",
-				"support.constant.json",
-				"support.class.builtin",
-				"markup.heading.markdown",
-				"constant.character.enum.graphql"
-			],
-			"settings": {
-				"foreground": "#9876AA",
-				"fontStyle": "italic bold"
-			}
-		},
-		{
-			"scope": [
-				"variable.parameter",
-				"variable.parameter.ts",
-				"variable.other.object",
-				// "variable.other.constant",
-				"variable.other.readwrite",
-				"storage.type.function.arrow",
-				"keyword.operator",
-				"entity.name.type.ts",
-				"entity.name.type.class",
-				// "entity.name.type.module",
-				"entity.name.type.interface",
-				"entity.name.type.alias",
-				"entity.name.type.enum",
-				"punctuation.definition.typeparameters",
-				"punctuation.definition.block",
-				"meta.brace.round",
-				"meta.brace.square",
-				"punctuation.definition.parameters",
-				"punctuation.accessor",
-				"punctuation.section.function.begin.bracket.round.css",
-				"punctuation.section.function.end.bracket.round.css",
-				"punctuation.section.array.begin.php",
-				"punctuation.section.array.end.php",
-				"punctuation.terminator.statement.php",
-				"punctuation.definition.template-expression.begin.js",
-				"punctuation.definition.template-expression.end.js",
-				"punctuation.separator.key-value.js",
-				"punctuation.definition.template-expression.begin",
-				"punctuation.definition.template-expression.end",
-				"meta.var-single-variable.expr.tsx entity.name.type.tsx",
-				"meta.var-single-variable.expr.ts entity.name.type.ts",
-				"string.unquoted.plain.out.yaml",
-				"meta.directive.vue punctuation.separator.key-value.html",
-				"keyword.operator.logical.php",
-				"punctuation.separator.key-value",
-				"punctuation.definition.attribute-selector",
-				"keyword.control.flow.block-scalar.literal.yaml",
-				"string.unquoted.block.yaml",
-				"keyword.other.interpolation.begin",
-				"keyword.other.interpolation.end",
-				"meta.block.curly.misc.css",
-				"punctuation.definition.tag.prisma",
-				"string.unquoted.graphql",
-				"support.type.graphql",
-				"keyword.operator.spread.graphql",
-				"punctuation.colon.graphql",
-				"variable.parameter.graphql",
-				"support.type.enum.graphql"
-			],
-			"settings": {
-				"foreground": "#A9B7C6",
+				"foreground": "#2daef9",
 				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": [
-				"support.type.property-name.css",
-				"keyword.other.unit.percentage.css",
-				"entity.other.attribute-name.html",
-				"punctuation.definition.entity",
-				"meta.property-name.css",
-				"meta.property-list.scss entity.name.tag.css",
-				"entity.other.attribute-name",
-				"support.type.property-name.media.css",
-				"support.type.vendored.property-name",
-				"variable.language.svelte"
+				"variable",
+				"markup.bold",
+				"punctuation.definition.bold.markdown",
+				"variable.object.property.ts",
+				"variable.other.constant.object.ts",
+				"variable.other.constant.js",
+				"variable.other.constant.object.js"
 			],
 			"settings": {
-				"foreground": "#BABABA",
+				"foreground": "#18B5E4",
 				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"storage.type.ts",
+				"support.type.primitive.ts",
+				"storage.type.class.ts",
+				"storage.type.class.js",
+				"storage.type.function.js",
+				"storage.type.js",
+				"storage.type.function.arrow.js",
+				"constant.language.null.js"
+			],
+			"settings": {
+				"foreground": "#d04343",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"meta.definition.method",
+				"meta.function.method.with-arguments.ruby",
+				"meta.function.method.without-arguments.ruby"
+			],
+			"settings": {
+				"foreground": "#eb9a64"
+			}
+		},
+		{
+			"scope": [
+				"meta.function-call"
+			],
+			"settings": {
+				"foreground": "#D1CCF1"
+			}
+		},
+		{
+			"scope": "meta.attribute.rust",
+			"settings": {
+				"foreground": "#CE74F8",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"meta.diff",
+				"meta.diff.header",
+				"punctuation.definition.to-file.diff",
+				"punctuation.definition.from-file.diff",
+				"punctuation.definition.range.diff"
+			],
+			"settings": {
+				"foreground": "#18B5E4",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"markup.deleted",
+				"punctuation.definition.deleted.diff"
+			],
+			"settings": {
+				"foreground": "#DD5555",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "markup.changed",
+			"settings": {
+				"foreground": "#d58941",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"markup.inserted",
+				"punctuation.definition.inserted.diff"
+			],
+			"settings": {
+				"foreground": "#5AC16C"
 			}
 		},
 		{
 			"scope": "token.info-token",
 			"settings": {
-				"foreground": "#6796E6"
+				"foreground": "#6796E6",
 			}
 		},
 		{
@@ -1184,189 +1103,6 @@
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#B267E6"
-			}
-		},
-		{
-			"scope": [
-				"meta.property-list.scss entity.name.tag",
-				"variable.scss",
-				"variable",
-				"meta.property-name support.type.property-name.css",
-				"meta.at-rule.media.header.css",
-				"meta.selector",
-				"meta.property-value.css",
-				"meta.function.color.css",
-				"support.constant.mathematical-symbols.scss"
-			],
-			"settings": {
-				"foreground": "#BABABA"
-			}
-		},
-		{
-			"scope": [],
-			"settings": {
-				"foreground": "#9876AA",
-				"fontStyle": "italic bold"
-			}
-		},
-		{
-			"scope": [
-				"support.type.property-name.css",
-				"support",
-				"support.type.property-name.css",
-				"keyword.operator.gradient.css",
-				"support.constant.font-name.css"
-			],
-			"settings": {
-				"foreground": "#A5C261",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"meta.property-value.css variable.prop.css",
-				"keyword.other.unit.fr.css",
-				"source.css.scss meta.property-list.scss meta.property-value.scss support.type.property-name.css",
-				"meta.property-value.scss variable.scss"
-			],
-			"settings": {
-				"foreground": "#E8BF6A",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"variable.other.property"
-			],
-			"settings": {
-				"foreground": "#9876AA",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"storage.type.java",
-				"storage.type.object.array.java",
-				"meta.method-call.java entity.name.function.java",
-				"meta.method.java meta.method.body.java meta.definition.variable.java variable.other.definition.java",
-				"source.java meta.package.java storage.modifier.package.java",
-				"storage.modifier.import.java"
-			],
-			"settings": {
-				"foreground": "#A9B7C6",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"variable.other.definition.java"
-			],
-			"settings": {
-				"foreground": "#9876AA",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"meta.tag.custom entity.name.tag",
-				"support.class.component"
-			],
-			"settings": {
-				"foreground": "#26BDA4",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"punctuation.section.embedded"
-			],
-			"settings": {
-				"foreground": "#E8BF6A",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"variable.object.property"
-			],
-			"settings": {
-				"foreground": "#9876AA",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				"constant.language.import-export-all"
-			],
-			"settings": {
-				"foreground": "#8d2c81",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": [
-				// "punctuation",
-				// "punctuation.section.embedded",
-				// "meta.function-call",
-				"punctuation.definition.constant.hashkey",
-				"keyword.operator.assignment.ruby",
-				"variable.other.property",
-			],
-			"settings": {
-				"foreground": "#D1CCF1",
-			}
-		},
-		{
-			"scope": [
-				"support.function.kernel.ruby",
-				"keyword.other",
-				"keyword.operator",
-				"keyword.control",
-				"keyword.other.special-method",
-				"punctuation.separator.key-value",
-				"variable.language",
-				"storage.type.variable",
-				"storage.modifier",
-			],
-			"settings": {
-				"foreground": "#bd594e",
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": [
-				"support.class",
-				"meta.class",
-				"entity.name.type.class.ruby",
-				"entity.other.inherited-class.ruby",
-				"entity.name.type.module",
-				"meta.module.ruby",
-				"variable.other.constant",
-				"comment.line.type.yard",
-			],
-			"settings": {
-				"foreground": "#4B82E9",
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": [
-				"constant.other.symbol.ruby",
-				"constant.language.symbol",
-				"constant.other.symbol.hashkey.ruby",
-			],
-			"settings": {
-				"foreground": "#7DCFCF",
-			}
-		},
-		{
-			"scope": [
-				"meta.definition.method",
-				"meta.function.method.with-arguments.ruby",
-				"meta.function.method.without-arguments.ruby"
-			],
-			"settings": {
-				"foreground": "#D464EB"
 			}
 		}
 	]
