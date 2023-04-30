@@ -258,7 +258,7 @@
 		//"gitDecoration.conflictingResourceForeground": "#e4676b",
 		//"gitDecoration.deletedResourceForeground": "#c74e39",
 		//"gitDecoration.ignoredResourceForeground": "#8c8c8c",
-		//"gitDecoration.modifiedResourceForeground": "#e2c08d",
+		// "gitDecoration.modifiedResourceForeground": "#e2c08d",
 		//"gitDecoration.renamedResourceForeground": "#73c991",
 		//"gitDecoration.stageDeletedResourceForeground": "#c74e39",
 		//"gitDecoration.stageModifiedResourceForeground": "#e2c08d",
@@ -359,7 +359,7 @@
 		//"list.focusOutline": "#007fd4",
 		//"list.highlightForeground": "#2aaaff",
 		//"list.hoverBackground": "#2a2d2e",
-		//"list.inactiveSelectionBackground": "#37373d",
+		// "list.inactiveSelectionBackground": "#727272",
 		//"list.invalidItemForeground": "#b89500",
 		//"list.warningForeground": "#cca700",
 		//"listFilterWidget.background": "#2b2d30",
@@ -429,7 +429,7 @@
 		//"notificationsErrorIcon.foreground": "#f14c4c",
 		//"notificationsInfoIcon.foreground": "#3794ff",
 		//"notificationsWarningIcon.foreground": "#cca700",
-		//"panel.background": "#1e1f22",
+		// "panel.background": "#1e1f22",
 		//"panel.border": "#80808059",
 		//"panel.dropBorder": "#e7e7e7",
 		//"panelSection.border": "#80808059",
@@ -514,7 +514,7 @@
 		//"sideBar.dropBackground": "#53595d80",
 		//"sideBySideEditor.horizontalBorder": "#444444",
 		//"sideBySideEditor.verticalBorder": "#444444",
-		//"statusBar.background": "#007acc",
+		"statusBar.background": "#252526",
 		//"statusBar.debuggingBackground": "#cc6633",
 		//"statusBar.debuggingForeground": "#ffffff",
 		//"statusBar.focusBorder": "#ffffff",
@@ -565,10 +565,10 @@
 		//"symbolIcon.typeParameterForeground": "#cccccc",
 		//"symbolIcon.unitForeground": "#cccccc",
 		//"symbolIcon.variableForeground": "#75beff",
-		//"tab.activeBackground": "#1e1f22",
-		//"tab.activeForeground": "#ffffff",
-		//"tab.activeModifiedBorder": "#3399cc",
-		//"tab.border": "#2b2d30",
+		// "tab.activeBackground": "#1e1f22",
+		// "tab.activeForeground": "#ffffff",
+		// "tab.activeModifiedBorder": "#3399cc",
+		// "tab.borders": "#2b2d30",
 		//"tab.inactiveBackground": "#2d2d2d",
 		//"tab.inactiveForeground": "#ffffff80",
 		//"tab.inactiveModifiedBorder": "#3399cc80",
@@ -735,7 +735,7 @@
 		//"statusBar.border": null,
 		//"statusBar.debuggingBorder": null,
 		//"statusBar.noFolderBorder": null,
-		//"tab.activeBorder": null,
+		"tab.activeBorder": "#1f8ad2",
 		//"tab.activeBorderTop": null,
 		//"tab.hoverBackground": null,
 		//"tab.hoverBorder": null,
@@ -1093,13 +1093,13 @@
 				"variable.parameter",
 				"variable.parameter.ts",
 				"variable.other.object",
-				"variable.other.constant",
+				// "variable.other.constant",
 				"variable.other.readwrite",
 				"storage.type.function.arrow",
 				"keyword.operator",
 				"entity.name.type.ts",
 				"entity.name.type.class",
-				"entity.name.type.module",
+				// "entity.name.type.module",
 				"entity.name.type.interface",
 				"entity.name.type.alias",
 				"entity.name.type.enum",
@@ -1141,7 +1141,7 @@
 			],
 			"settings": {
 				"foreground": "#A9B7C6",
-				"fontStyle": ""
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1299,8 +1299,74 @@
 				"constant.language.import-export-all"
 			],
 			"settings": {
-				"foreground": "#A9B7C6",
+				"foreground": "#8d2c81",
 				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				// "punctuation",
+				// "punctuation.section.embedded",
+				// "meta.function-call",
+				"punctuation.definition.constant.hashkey",
+				"keyword.operator.assignment.ruby",
+				"variable.other.property",
+			],
+			"settings": {
+				"foreground": "#D1CCF1",
+			}
+		},
+		{
+			"scope": [
+				"support.function.kernel.ruby",
+				"keyword.other",
+				"keyword.operator",
+				"keyword.control",
+				"keyword.other.special-method",
+				"punctuation.separator.key-value",
+				"variable.language",
+				"storage.type.variable",
+				"storage.modifier",
+			],
+			"settings": {
+				"foreground": "#bd594e",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"support.class",
+				"meta.class",
+				"entity.name.type.class.ruby",
+				"entity.other.inherited-class.ruby",
+				"entity.name.type.module",
+				"meta.module.ruby",
+				"variable.other.constant",
+				"comment.line.type.yard",
+			],
+			"settings": {
+				"foreground": "#4B82E9",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"constant.other.symbol.ruby",
+				"constant.language.symbol",
+				"constant.other.symbol.hashkey.ruby",
+			],
+			"settings": {
+				"foreground": "#7DCFCF",
+			}
+		},
+		{
+			"scope": [
+				"meta.definition.method",
+				"meta.function.method.with-arguments.ruby",
+				"meta.function.method.without-arguments.ruby"
+			],
+			"settings": {
+				"foreground": "#D464EB"
 			}
 		}
 	]
