@@ -2,6 +2,8 @@
 
 This is a VSCode theme that is inspired by the popular RubyMine theme. It features a dark color scheme with high contrast and bright accents for a visually appealing coding experience. The theme is designed to provide a comfortable and productive environment for developers working with Ruby and other programming languages.
 
+- supports Ruby LSP
+
 ## Installation
 
 You can install this theme via the VSCode Marketplace or by searching for it within VSCode. Here are the steps to install it via the Marketplace:
