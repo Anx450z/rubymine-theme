@@ -18,7 +18,6 @@ Here are some screenshots of the theme in action:
 
 ![RubyMine Theme Screenshot 1](./screenshots/screenshot1.png)
 
-
 ## Supported Languages
 
 This theme is designed to work with a variety of programming languages, including:
