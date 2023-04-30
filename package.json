@@ -3,6 +3,7 @@
   "displayName": "RubyMine Theme",
   "description": "RubyMine theme for vscode",
   "publisher": "anx450z",
+  "repository": "https://github.com/Anx450z/rubymine-theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"

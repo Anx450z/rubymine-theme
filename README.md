@@ -16,11 +16,8 @@ You can install this theme via the VSCode Marketplace or by searching for it wit
 
 Here are some screenshots of the theme in action:
 
-RubyMine Theme Screenshot 1
+![RubyMine Theme Screenshot 1](./screenshots/screenshot1.png)
 
-RubyMine Theme Screenshot 2
-
-RubyMine Theme Screenshot 3
 
 ## Supported Languages
 
