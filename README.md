@@ -1,6 +1,6 @@
-# RubyMine Theme
+# MidnightMirage Theme
 
-This is a VSCode theme that is inspired by the popular RubyMine theme. It features a dark color scheme with high contrast and bright accents for a visually appealing coding experience. The theme is designed to provide a comfortable and productive environment for developers working with Ruby and other programming languages.
+This is a VSCode theme that is inspired by the popular MidnightMirage theme. It features a dark color scheme with high contrast and bright accents for a visually appealing coding experience. The theme is designed to provide a comfortable and productive environment for developers working with Ruby and other programming languages.
 
 - supports Ruby LSP
 
@@ -10,7 +10,7 @@ You can install this theme via the VSCode Marketplace or by searching for it wit
 
 - Open VSCode
 - Click on the extensions icon in the left-hand sidebar (or press Ctrl + Shift + X)
-- Search for "RubyMine Theme"
+- Search for "MidnightMirage Theme"
 - Click "Install"
 - Click "Reload" to activate the theme
 
@@ -18,7 +18,7 @@ You can install this theme via the VSCode Marketplace or by searching for it wit
 
 Here are some screenshots of the theme in action:
 
-![RubyMine Theme Screenshot 1](./screenshots/screenshot1.png)
+![MidnightMirage Theme Screenshot 1](./screenshots/screenshot1.png)
 
 ## Supported Languages
 

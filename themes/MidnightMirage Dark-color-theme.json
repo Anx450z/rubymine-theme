@@ -801,7 +801,7 @@
 				"meta.function.call.rust"
 			],
 			"settings": {
-				"foreground": "#D1CCF1"
+				"foreground": "#f1e5cc"
 			}
 		},
 		{
@@ -856,7 +856,6 @@
 			],
 			"settings": {
 				"foreground": "#ff7161be",
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -938,8 +937,8 @@
 				"variable.other.readwrite.alias.ts"
 			],
 			"settings": {
-				"foreground": "#4B82E9",
-				"fontStyle": ""
+				"foreground": "#4ba7e9",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -996,7 +995,7 @@
 				"variable.other.constant.object.js"
 			],
 			"settings": {
-				"foreground": "#18B5E4",
+				"foreground": "#18b4e4e0",
 				"fontStyle": ""
 			}
 		},
@@ -1013,7 +1012,6 @@
 			],
 			"settings": {
 				"foreground": "#f7654e",
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1023,7 +1021,8 @@
 				"meta.function.method.without-arguments.ruby"
 			],
 			"settings": {
-				"foreground": "#eb9a64"
+				"foreground": "#eb9a64",
+				"fontStyle": "bold"
 			}
 		},
 		{

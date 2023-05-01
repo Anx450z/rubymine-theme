@@ -1,7 +1,7 @@
 # Change Log
 
-All notable changes to the "rubymine-theme" extension will be documented in this file.
-
+- Changed name to Midnight mirage
+- Add theme icon
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
