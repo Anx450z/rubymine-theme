@@ -1,10 +1,11 @@
 {
-  "name": "rubymine-theme",
-  "displayName": "RubyMine Theme",
-  "description": "RubyMine theme for vscode",
+  "name": "midnight-mirage",
+  "displayName": "Midnight Mirage",
+  "description": "A dark and low contrast theme for vscode",
   "publisher": "anx450z",
   "repository": "https://github.com/Anx450z/rubymine-theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
+  "icon": "./icons/icon.png",
   "engines": {
     "vscode": "^1.77.0"
   },
