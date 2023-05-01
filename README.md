@@ -19,17 +19,19 @@ You can install this theme via the VSCode Marketplace or by searching for it wit
 Here are some screenshots of the theme in action:
 
 ![MidnightMirage Theme Screenshot 1](./screenshots/screenshot1.png)
+![MidnightMirage Theme Screenshot 2](./screenshots/screenshot2.png)
 
 ## Supported Languages
 
 This theme is designed to work with a variety of programming languages, including:
 
 - Ruby
-- Python
-- JavaScript
+- TypeScript
+- Javascript
 - HTML/CSS
 - Java
 - C#
+- Python
 
 ## Customization
 

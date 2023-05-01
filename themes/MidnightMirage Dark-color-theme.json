@@ -980,8 +980,8 @@
 				"variable.language.this"
 			],
 			"settings": {
-				"foreground": "#2daef9",
-				"fontStyle": "bold"
+				"foreground": "#86cff8",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
