@@ -5,7 +5,7 @@
   "publisher": "anx450z",
   "repository": "https://github.com/Anx450z/rubymine-theme",
   "version": "1.0.0",
-  "icon": "icons/icon.png",
+  "icon": "icons/icon3.png",
   "engines": {
     "vscode": "^1.77.0"
   },
