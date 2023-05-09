@@ -18,8 +18,9 @@ You can install this theme via the VSCode Marketplace or by searching for it wit
 
 Here are some screenshots of the theme in action:
 
-![MidnightMirage Theme Screenshot 1](./screenshots/screenshot1.png)
-![MidnightMirage Theme Screenshot 2](./screenshots/screenshot2.png)
+![MidnightMirage Theme Screenshot 3](./screenshots/screenshot3.png)
+![MidnightMirage Theme Screenshot 4](./screenshots/screenshot4.png)
+![MidnightMirage Theme Screenshot 5](./screenshots/screenshot5.png)
 
 ## Supported Languages
 
