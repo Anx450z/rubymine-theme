@@ -4,7 +4,7 @@
   "description": "A dark and low contrast theme for vscode",
   "publisher": "anx450z",
   "repository": "https://github.com/Anx450z/rubymine-theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "icons/icon4.png",
   "engines": {
     "vscode": "^1.77.0"
