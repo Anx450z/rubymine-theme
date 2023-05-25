@@ -4,7 +4,7 @@
 	"type": "dark",	"colors": {
 		"activityBarBadge.background": "#007acc",
 		"editor.background": "#1e1f22",
-		"editor.foreground": "#a9b7c6",
+		"editor.foreground": "#b5b5b5",
 		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.selectionBackground": "#006dac6d",
 		"editor.selectionHighlightBackground": "#4a6166",
@@ -190,7 +190,7 @@
 		//"editorLightBulb.foreground": "#ffcc00",
 		//"editorLightBulbAutoFix.foreground": "#75beff",
 		//"editorLineNumber.activeForeground": "#c6c6c6",
-		//"editorLineNumber.foreground": "#858585",
+		"editorLineNumber.foreground": "#4d4d4d",
 		//"editorLink.activeForeground": "#4e94ce",
 		//"editorMarkerNavigation.background": "#1e1f22",
 		//"editorMarkerNavigationError.background": "#f14c4c",
