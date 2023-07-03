@@ -860,7 +860,7 @@
 		},
 		{
 			"scope": [
-				"variable.parameter",
+				// "variable.parameter",
 				"constant.other.symbol.hashkey.parameter.function",
 				"variable.other",
 				"comment.line.parameter.yard",
@@ -874,6 +874,15 @@
 			"settings": {
 				"foreground": "#ffcd44ce",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"variable.parameter",
+			],
+			"settings": {
+				"foreground": "#fdf58cce",
+				"fontStyle": "bold"
 			}
 		},
 		{
