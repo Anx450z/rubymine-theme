@@ -4,8 +4,8 @@
   "description": "A dark and low contrast theme for vscode",
   "publisher": "anx450z",
   "repository": "https://github.com/Anx450z/rubymine-theme",
-  "version": "1.1.0",
-  "icon": "icons/icon5.png",
+  "version": "1.2.0",
+  "icon": "icons/icon6.png",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -15,9 +15,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Midnight Mirage Dark",
+        "label": "Midnight Mirage",
         "uiTheme": "vs-dark",
         "path": "./themes/MidnightMirage Dark-color-theme.json"
+      },
+      {
+        "label": "Midnight Mirage Dark No font style",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MidnightMirageNoFontStyle Dark-color-theme.json"
+      },
+      {
+        "label": "Midnight Mirage Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MidnightMirageGray Dark-color-theme.json"
       }
     ]
   }
