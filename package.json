@@ -28,6 +28,11 @@
         "label": "Midnight Mirage Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/MidnightMirageGray Dark-color-theme.json"
+      },
+      {
+        "label": "Midnight Mirage Gray No font style",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MidnightMirageGrayNoFontStyle Dark-color-theme.json"
       }
     ]
   }

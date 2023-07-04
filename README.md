@@ -20,6 +20,7 @@ Here are some screenshots of the theme in action:
 
 ![MidnightMirage Theme Screenshot 5](./screenshots/screenshot5.png)
 ![MidnightMirage Theme Screenshot 6](./screenshots/screenshot6.png)
+![MidnightMirageGray Theme Screenshot 7](./screenshots/screenshot7.png)
 
 ## Supported Languages
 
