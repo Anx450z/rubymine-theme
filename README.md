@@ -1,6 +1,6 @@
 # MidnightMirage Theme
 
-This is a VSCode theme that is inspired by the RubyMine and RubyLSP's Spinel Themes. It features a dark color scheme with high contrast and bright accents for a visually appealing coding experience. The theme is designed to provide a comfortable and productive environment for developers working with Ruby and other programming languages.
+This is a VSCode theme that is inspired by the RubyMine and RubyLSP's Spinel Themes. It features a dark color scheme with low contrast and somewhat muted accents for a distraction free coding experience. The theme is designed to provide a comfortable and productive environment for developers working with Ruby and other programming languages.
 
 - supports Ruby LSP
 
@@ -21,18 +21,6 @@ Here are some screenshots of the theme in action:
 ![MidnightMirage Theme Screenshot 5](./screenshots/screenshot5.png)
 ![MidnightMirage Theme Screenshot 6](./screenshots/screenshot6.png)
 ![MidnightMirageGray Theme Screenshot 7](./screenshots/screenshot7.png)
-
-## Supported Languages
-
-This theme is designed to work with a variety of programming languages, including:
-
-- Ruby
-- TypeScript
-- Javascript
-- HTML/CSS
-- Java
-- C#
-- Python
 
 ## Customization
 
