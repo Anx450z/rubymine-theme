@@ -335,7 +335,7 @@
 		//"interactive.requestBackground": "#ffffff08",
 		//"interactive.requestBorder": "#ffffff1a",
 		//"interactiveEditor.border": "#454545",
-		"interactiveEditor.shadow": "#00000000",
+		// "interactiveEditor.shadow": "#00000000",
 		// "interactiveEditorInput.background": "#1e1f22",
 		//"interactiveEditorInput.border": "#454545",
 		//"interactiveEditorInput.focusBorder": "#007fd4",
