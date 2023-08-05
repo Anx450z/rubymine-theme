@@ -860,7 +860,14 @@
 		},
 		{
 			"scope": [
-				// "variable.parameter",
+				"keyword.operator",
+			],
+			"settings": {
+				"foreground": "#ff8c00",
+			}
+		},
+		{
+			"scope": [
 				"constant.other.symbol.hashkey.parameter.function",
 				"variable.other",
 				"comment.line.parameter.yard",
@@ -934,13 +941,11 @@
 		},
 		{
 			"scope": [
-				"support.class",
 				"meta.class",
 				"entity.name.type.class.ruby",
 				"entity.other.inherited-class.ruby",
 				"entity.name.type.module",
 				"meta.module.ruby",
-				"variable.other.constant",
 				"comment.line.type.yard",
 				"entity.name.scope-resolution.cpp",
 				"entity.name.scope-resolution.template.call.cpp",
@@ -956,6 +961,33 @@
 			],
 			"settings": {
 				"foreground": "#4ba7e9",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"entity.other.inherited-class.ruby",
+			],
+			"settings": {
+				"foreground": "#55be00d4",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"support.class.ruby",
+			],
+			"settings": {
+				"foreground": "#ff83aec2",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"variable.other.constant",
+			],
+			"settings": {
+				"foreground": "#cfc397",
 				"fontStyle": ""
 			}
 		},
