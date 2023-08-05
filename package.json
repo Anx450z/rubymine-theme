@@ -1,11 +1,11 @@
 {
-  "name": "midnight-mirage",
-  "displayName": "Midnight Mirage",
+  "name": "ruby-theme",
+  "displayName": "Ruby Theme",
   "description": "A dark and low contrast theme for vscode",
   "publisher": "anx450z",
   "repository": "https://github.com/Anx450z/rubymine-theme",
-  "version": "1.2.4",
-  "icon": "icons/icon6.png",
+  "version": "1.2.5",
+  "icon": "icons/ruby_theme_icon.png",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -15,27 +15,27 @@
   "contributes": {
     "themes": [
       {
-        "label": "Midnight Mirage Dark",
+        "label": "Ruby Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/MidnightMirage Dark-color-theme.json"
       },
       {
-        "label": "Midnight Mirage Dark No font style",
+        "label": "Ruby Dark No font style",
         "uiTheme": "vs-dark",
         "path": "./themes/MidnightMirageNoFontStyle Dark-color-theme.json"
       },
       {
-        "label": "Midnight Mirage Gray",
+        "label": "Ruby Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/MidnightMirageGray Dark-color-theme.json"
       },
       {
-        "label": "Midnight Mirage Gray No font style",
+        "label": "Ruby Gray No font style",
         "uiTheme": "vs-dark",
         "path": "./themes/MidnightMirageGrayNoFontStyle Dark-color-theme.json"
       },
       {
-        "label": "Midnight Mirage Blue",
+        "label": "Ruby Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/MidnightMirageBlue Dark-color-theme.json"
       },

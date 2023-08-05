@@ -1,4 +1,4 @@
-# MidnightMirage Theme
+# Ruby Theme
 
 This is a VSCode theme That has great support for ruby language. It features a dark color scheme with low contrast and muted accents for a distraction free coding experience. The theme is designed to provide a comfortable and productive environment for developers working with Ruby and other programming languages.
 
@@ -10,7 +10,7 @@ You can install this theme via the VSCode Marketplace or by searching for it wit
 
 - Open VSCode
 - Click on the extensions icon in the left-hand sidebar (or press Ctrl + Shift + X)
-- Search for "MidnightMirage Theme"
+- Search for "Ruby Theme"
 - Click "Install"
 - Click "Reload" to activate the theme
 
