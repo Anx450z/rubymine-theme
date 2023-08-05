@@ -4,7 +4,7 @@
   "description": "A dark and low contrast theme for vscode",
   "publisher": "anx450z",
   "repository": "https://github.com/Anx450z/rubymine-theme",
-  "version": "1.2.5",
+  "version": "1.3.0",
   "icon": "icons/ruby_theme_icon.png",
   "engines": {
     "vscode": "^1.77.0"
@@ -15,34 +15,34 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ruby Dark",
+        "label": "Ruby Midnight",
         "uiTheme": "vs-dark",
-        "path": "./themes/MidnightMirage Dark-color-theme.json"
+        "path": "./themes/Ruby Dark-color-theme.json"
       },
       {
-        "label": "Ruby Dark No font style",
+        "label": "Ruby Midnight No font style",
         "uiTheme": "vs-dark",
-        "path": "./themes/MidnightMirageNoFontStyle Dark-color-theme.json"
+        "path": "./themes/RubyNoFontStyle Dark-color-theme.json"
       },
       {
-        "label": "Ruby Gray",
+        "label": "Ruby Moonlight",
         "uiTheme": "vs-dark",
-        "path": "./themes/MidnightMirageGray Dark-color-theme.json"
+        "path": "./themes/RubyGray Dark-color-theme.json"
       },
       {
-        "label": "Ruby Gray No font style",
+        "label": "Ruby Moonlight No font style",
         "uiTheme": "vs-dark",
-        "path": "./themes/MidnightMirageGrayNoFontStyle Dark-color-theme.json"
+        "path": "./themes/RubyGrayNoFontStyle Dark-color-theme.json"
       },
       {
-        "label": "Ruby Blue",
+        "label": "Ruby Steel Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/MidnightMirageBlue Dark-color-theme.json"
+        "path": "./themes/RubyBlue Dark-color-theme.json"
       },
       {
-        "label": "Midnight Mirage Blue No font style",
+        "label": "Ruby Steel Blue No font style",
         "uiTheme": "vs-dark",
-        "path": "./themes/MidnightMirageBlueNoFontStyle Dark-color-theme.json"
+        "path": "./themes/RubyBlueNoFontStyle Dark-color-theme.json"
       }
     ]
   }

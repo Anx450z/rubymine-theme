@@ -3,7 +3,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",	"colors": {
 		"activityBarBadge.background": "#007acc",
-		"editor.background": "#272d35",
+		"editor.background": "#151a22",
 		"editor.foreground": "#b5b5b5",
 		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.selectionBackground": "#00a2ff7b",
@@ -811,7 +811,7 @@
 			],
 			"settings": {
 				"foreground": "#8d8d8d",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -822,7 +822,7 @@
 			],
 			"settings": {
 				"foreground": "#F1CB9F",
-				"fontStyle": "italic bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -880,7 +880,7 @@
 			],
 			"settings": {
 				"foreground": "#ffcd44ce",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -961,7 +961,7 @@
 			],
 			"settings": {
 				"foreground": "#4ba7e9",
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -970,7 +970,7 @@
 			],
 			"settings": {
 				"foreground": "#55be00d4",
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -979,7 +979,7 @@
 			],
 			"settings": {
 				"foreground": "#ff83aec2",
-				"fontStyle": "bold italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1031,7 +1031,7 @@
 			],
 			"settings": {
 				"foreground": "#86cff8",
-				"fontStyle": "italic bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"scope": "meta.attribute.rust",
 			"settings": {
 				"foreground": "#CE74F8",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1100,7 +1100,7 @@
 			],
 			"settings": {
 				"foreground": "#18B5E4",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
