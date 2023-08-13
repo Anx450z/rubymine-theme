@@ -18,9 +18,17 @@ You can install this theme via the VSCode Marketplace or by searching for it wit
 
 Here are some screenshots of the theme in action:
 
-![MidnightMirage Theme Screenshot 5](./screenshots/screenshot5.png)
-![MidnightMirage Theme Screenshot 6](./screenshots/screenshot6.png)
-![MidnightMirageGray Theme Screenshot 7](./screenshots/screenshot7.png)
+Midnight
+
+<img src="screenshots/screenshot1.png" alt="midnight" width="550px">
+
+Moonlight
+
+<img src="screenshots/screenshot2.png" alt="midnight" width="550px">
+
+Steelblue
+
+<img src="screenshots/screenshot3.png" alt="midnight" width="550px">
 
 ## Customization
 
