@@ -916,6 +916,7 @@
 		{
 			"scope": "meta.embedded.line",
 			"settings": {
+				"foreground": "#484848",
 				"fontStyle": ""
 			}
 		},
@@ -962,7 +963,7 @@
 				"variable.other.readwrite.alias.ts"
 			],
 			"settings": {
-				"foreground": "#4ba7e9",
+				"foreground": "#e9aa4b",
 				"fontStyle": "bold"
 			}
 		},
@@ -971,7 +972,7 @@
 				"entity.other.inherited-class.ruby",
 			],
 			"settings": {
-				"foreground": "#55be00d4",
+				"foreground": "#009dff",
 				"fontStyle": "bold"
 			}
 		},
@@ -980,7 +981,7 @@
 				"support.class.ruby",
 			],
 			"settings": {
-				"foreground": "#ff83aec2",
+				"foreground": "#fd7949",
 				"fontStyle": "bold"
 			}
 		},

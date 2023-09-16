@@ -811,7 +811,6 @@
 			],
 			"settings": {
 				"foreground": "#8d8d8d",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -822,7 +821,6 @@
 			],
 			"settings": {
 				"foreground": "#F1CB9F",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -880,7 +878,6 @@
 			],
 			"settings": {
 				"foreground": "#ffcd44ce",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -889,7 +886,6 @@
 			],
 			"settings": {
 				"foreground": "#fdf58cce",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -898,7 +894,6 @@
 			],
 			"settings": {
 				"foreground": "#babbfbdd",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -914,7 +909,7 @@
 		{
 			"scope": "meta.embedded.line",
 			"settings": {
-				"fontStyle": ""
+				"foreground": "#484848",
 			}
 		},
 		{
@@ -924,7 +919,6 @@
 			],
 			"settings": {
 				"foreground": "#A6CC5F",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -960,8 +954,7 @@
 				"variable.other.readwrite.alias.ts"
 			],
 			"settings": {
-				"foreground": "#4ba7e9",
-				"fontStyle": ""
+				"foreground": "#e9aa4b",
 			}
 		},
 		{
@@ -969,8 +962,7 @@
 				"entity.other.inherited-class.ruby",
 			],
 			"settings": {
-				"foreground": "#55be00d4",
-				"fontStyle": ""
+				"foreground": "#009dff",
 			}
 		},
 		{
@@ -978,8 +970,7 @@
 				"support.class.ruby",
 			],
 			"settings": {
-				"foreground": "#ff83aec2",
-				"fontStyle": ""
+				"foreground": "#fd7949",
 			}
 		},
 		{
@@ -988,7 +979,6 @@
 			],
 			"settings": {
 				"foreground": "#cfc397",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1008,7 +998,6 @@
 			],
 			"settings": {
 				"foreground": "#7db2cf",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1021,7 +1010,6 @@
 			],
 			"settings": {
 				"foreground": "#ff9cae",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1031,7 +1019,6 @@
 			],
 			"settings": {
 				"foreground": "#86cff8",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1046,7 +1033,6 @@
 			],
 			"settings": {
 				"foreground": "#18b4e4e0",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1072,7 +1058,6 @@
 			],
 			"settings": {
 				"foreground": "#eb9a64",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1080,14 +1065,13 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#dfceb3"
+				"foreground": "#dfceb3",
 			}
 		},
 		{
 			"scope": "meta.attribute.rust",
 			"settings": {
 				"foreground": "#CE74F8",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1100,7 +1084,6 @@
 			],
 			"settings": {
 				"foreground": "#18B5E4",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1110,14 +1093,12 @@
 			],
 			"settings": {
 				"foreground": "#DD5555",
-				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "markup.changed",
 			"settings": {
 				"foreground": "#d58941",
-				"fontStyle": ""
 			}
 		},
 		{
