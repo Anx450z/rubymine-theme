@@ -700,7 +700,7 @@
 		//"list.focusAndSelectionOutline": null,
 		//"list.focusBackground": null,
 		//"list.focusForeground": null,
-		//"list.hoverForeground": null,
+		"list.hoverForeground": "#ffffff",
 		//"list.inactiveFocusBackground": null,
 		//"list.inactiveFocusOutline": null,
 		//"list.inactiveSelectionForeground": null,
@@ -856,6 +856,7 @@
 			],
 			"settings": {
 				"foreground": "#ff7161be",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -864,6 +865,7 @@
 			],
 			"settings": {
 				"foreground": "#ff8c00",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -979,7 +981,7 @@
 			],
 			"settings": {
 				"foreground": "#ff83aec2",
-				"fontStyle": "bold italic"
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1021,7 +1023,7 @@
 			],
 			"settings": {
 				"foreground": "#ff9cae",
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1072,7 +1074,7 @@
 			],
 			"settings": {
 				"foreground": "#eb9a64",
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1080,7 +1082,8 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#dfceb3"
+				"foreground": "#dfceb3",
+				"fontStyle": "italic"
 			}
 		},
 		{

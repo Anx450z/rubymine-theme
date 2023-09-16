@@ -700,7 +700,7 @@
 		//"list.focusAndSelectionOutline": null,
 		//"list.focusBackground": null,
 		//"list.focusForeground": null,
-		//"list.hoverForeground": null,
+		"list.hoverForeground": "#ffffff",
 		//"list.inactiveFocusBackground": null,
 		//"list.inactiveFocusOutline": null,
 		//"list.inactiveSelectionForeground": null,
