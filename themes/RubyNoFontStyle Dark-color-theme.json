@@ -909,7 +909,7 @@
 		{
 			"scope": "meta.embedded.line",
 			"settings": {
-				"foreground": "#484848",
+				"foreground": "#ffb663c5",
 			}
 		},
 		{
