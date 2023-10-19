@@ -871,13 +871,20 @@
 				"comment.line.parameter.yard",
 				"markup.inline.raw.string.markdown",
 				"markup.fenced_code.block.markdown",
-				"entity.other.attribute-name.html",
 				"constant.other.color.rgb-value.hex.css",
-				"support.constant.color.w3c-standard-color-name.css",
+				"support.constant.color.w3c-standasrd-color-name.css",
 				"constant.other.database-name.sql"
 			],
 			"settings": {
 				"foreground": "#ffcd44ce",
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name.html",
+			],
+			"settings": {
+				"foreground": "#dff4ffb8",
 			}
 		},
 		{
@@ -991,13 +998,20 @@
 				"support.type.property-name.json",
 				"meta.object-literal.key.ts",
 				"meta.object-literal.key.js",
-				"entity.name.tag.html",
-				"punctuation.separator.key-value.css",
-				"punctuation.terminator.rule.css",
-				"entity.name.tag.yaml"
 			],
 			"settings": {
 				"foreground": "#7db2cf",
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag.html",
+				"punctuation.terminator.rule.css",
+				"punctuation.separator.key-value.css",
+				"entity.name.tag.yaml"
+			],
+			"settings": {
+				"foreground": "#6bdffcbf",
 			}
 		},
 		{
