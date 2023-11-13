@@ -20,15 +20,15 @@ Here are some screenshots of the theme in action:
 
 Midnight
 
-<img src="screenshots/screenshot1.png" alt="midnight" width="550px">
+<img src="screenshots/screenshot1.png" alt="midnight" width="750px">
 
 Moonlight
 
-<img src="screenshots/screenshot2.png" alt="midnight" width="550px">
+<img src="screenshots/screenshot2.png" alt="midnight" width="750px">
 
 Steelblue
 
-<img src="screenshots/screenshot3.png" alt="midnight" width="550px">
+<img src="screenshots/screenshot3.png" alt="midnight" width="750px">
 
 ## Customization
 
