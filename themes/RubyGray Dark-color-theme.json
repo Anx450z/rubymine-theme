@@ -792,7 +792,6 @@
 				"meta.brace.square.js",
 				"keyword.generator.asterisk.js",
 				"keyword.operator.combinator.css",
-				"meta.property-name.css",
 				"punctuation.definition.constant.css",
 				"punctuation.separator.key-value.mapping.yaml",
 				"string.unquoted.plain.out.yaml",
@@ -894,6 +893,8 @@
 		},
 		{
 			"scope": [
+				"variable.other.readwrite.ts",
+				"variable.other.readwrite.js",
 				"variable.parameter",
 			],
 			"settings": {
@@ -903,6 +904,7 @@
 		},
 		{
 			"scope": [
+				"variable.language.this",
 				"variable.other.readwrite",
 			],
 			"settings": {
@@ -924,7 +926,7 @@
 			"scope": "meta.embedded.line",
 			"settings": {
 				"foreground": "#ffb663c5",
-				"fontStyle": "bold"
+				// "fontStyle": "bold"
 			}
 		},
 		{
@@ -951,7 +953,7 @@
 		},
 		{
 			"scope": [
-				"meta.class",
+				"meta.class.ruby",
 				"entity.name.type.class.ruby",
 				"entity.other.inherited-class.ruby",
 				"entity.name.type.module",
@@ -964,14 +966,23 @@
 				"markup.heading",
 				"constant.other.reference.link.markdown",
 				"string.other.link.title.markdown",
-				"meta.selector.css",
 				"entity.name.namespace.rust",
-				"entity.name.type.enum.ts",
-				"variable.other.readwrite.alias.ts"
 			],
 			"settings": {
 				"foreground": "#ffd28d",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"meta.class",
+				"entity.name.type.enum.ts",
+				"variable.other.readwrite.alias.ts",
+				"entity.name.type.enum.js",
+				"variable.other.readwrite.alias.js",
+			],
+			"settings": {
+				"foreground": "#ffd28d",
 			}
 		},
 		{
@@ -1011,6 +1022,7 @@
 				"support.type.property-name.json",
 				"meta.object-literal.key.ts",
 				"meta.object-literal.key.js",
+				"meta.property-name.css",
 			],
 			"settings": {
 				"foreground": "#7db2cf",
@@ -1035,7 +1047,6 @@
 				"variable.other.readwrite.instance",
 				"punctuation.definition.variable",
 				"variable.other.readwrite.global",
-				"variable.other.property"
 			],
 			"settings": {
 				"foreground": "#ff9cae",
@@ -1045,7 +1056,6 @@
 		{
 			"scope": [
 				"constant.language",
-				"variable.language.this"
 			],
 			"settings": {
 				"foreground": "#86cff8",
@@ -1084,9 +1094,8 @@
 		},
 		{
 			"scope": [
-				"meta.definition.method",
+				"meta.selector.css",
 				"meta.function.method.with-arguments.ruby",
-				"meta.function.method.without-arguments.ruby"
 			],
 			"settings": {
 				"foreground": "#ebbe64",
@@ -1095,6 +1104,16 @@
 		},
 		{
 			"scope": [
+				"meta.function.method.without-arguments.ruby"
+			],
+			"settings": {
+				"foreground": "#ebbe64",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"variable.other.property",
 				"meta.function-call"
 			],
 			"settings": {
