@@ -855,8 +855,8 @@
 				"entity.name.type.numeric.rust"
 			],
 			"settings": {
-				"foreground": "#ff7161be",
-				"fontStyle": "italic"
+				"foreground": "#ff9361",
+				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -880,7 +880,7 @@
 				"constant.other.database-name.sql"
 			],
 			"settings": {
-				"foreground": "#ffcd44ce",
+				"foreground": "#ffcd44",
 				"fontStyle": "italic"
 			}
 		},
@@ -906,7 +906,7 @@
 				"variable.other.readwrite",
 			],
 			"settings": {
-				"foreground": "#babbfbdd",
+				"foreground": "#ffffec",
 				"fontStyle": ""
 			}
 		},
@@ -970,7 +970,7 @@
 				"variable.other.readwrite.alias.ts"
 			],
 			"settings": {
-				"foreground": "#e9aa4b",
+				"foreground": "#ffd28d",
 				"fontStyle": "bold"
 			}
 		},
@@ -979,7 +979,7 @@
 				"entity.other.inherited-class.ruby",
 			],
 			"settings": {
-				"foreground": "#009dff",
+				"foreground": "#91d5ff",
 				"fontStyle": "bold"
 			}
 		},
@@ -988,7 +988,7 @@
 				"support.class.ruby",
 			],
 			"settings": {
-				"foreground": "#fd7949",
+				"foreground": "#fd9d49",
 				"fontStyle": "bold"
 			}
 		},
@@ -1039,7 +1039,7 @@
 			],
 			"settings": {
 				"foreground": "#ff9cae",
-				"fontStyle": "italic"
+				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -1089,8 +1089,8 @@
 				"meta.function.method.without-arguments.ruby"
 			],
 			"settings": {
-				"foreground": "#eb9a64",
-				"fontStyle": "italic"
+				"foreground": "#ebbe64",
+				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -1099,7 +1099,7 @@
 			],
 			"settings": {
 				"foreground": "#dfceb3",
-				"fontStyle": "italic"
+				// "fontStyle": "italic"
 			}
 		},
 		{
