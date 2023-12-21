@@ -886,7 +886,6 @@
 			],
 			"settings": {
 				"foreground": "#837c68",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -897,7 +896,6 @@
 			],
 			"settings": {
 				"foreground": "#000d36",
-				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -931,7 +929,6 @@
 			],
 			"settings": {
 				"foreground": "#ff0000",
-				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -940,7 +937,6 @@
 			],
 			"settings": {
 				"foreground": "#dd8500",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -956,7 +952,6 @@
 			],
 			"settings": {
 				"foreground": "#1900ff",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -975,7 +970,6 @@
 			],
 			"settings": {
 				"foreground": "#0167ff",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -985,7 +979,6 @@
 			],
 			"settings": {
 				"foreground": "#000000",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1002,7 +995,6 @@
 			"scope": "meta.embedded.line",
 			"settings": {
 				"foreground": "#6000b9",
-				// "fontStyle": "bold"
 			}
 		},
 		{
@@ -1012,7 +1004,6 @@
 			],
 			"settings": {
 				"foreground": "#4e6d14",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1046,7 +1037,6 @@
 			],
 			"settings": {
 				"foreground": "#003de4",
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1067,7 +1057,6 @@
 			],
 			"settings": {
 				"foreground": "#01880c",
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1076,7 +1065,6 @@
 			],
 			"settings": {
 				"foreground": "#008f37",
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1085,7 +1073,6 @@
 			],
 			"settings": {
 				"foreground": "#0c52a3",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1102,7 +1089,6 @@
 			],
 			"settings": {
 				"foreground": "#005583",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1114,7 +1100,6 @@
 			],
 			"settings": {
 				"foreground": "#0085a7ef",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1126,7 +1111,6 @@
 			],
 			"settings": {
 				"foreground": "#ff0095",
-				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -1135,7 +1119,6 @@
 			],
 			"settings": {
 				"foreground": "#005281",
-				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -1150,7 +1133,6 @@
 			],
 			"settings": {
 				"foreground": "#18b4e4",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -1183,7 +1165,6 @@
 			],
 			"settings": {
 				"foreground": "#0045db",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1193,14 +1174,12 @@
 			],
 			"settings": {
 				"foreground": "#012063",
-				// "fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "meta.attribute.rust",
 			"settings": {
 				"foreground": "#55007c",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1213,7 +1192,6 @@
 			],
 			"settings": {
 				"foreground": "#18B5E4",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1223,14 +1201,12 @@
 			],
 			"settings": {
 				"foreground": "#a31414",
-				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "markup.changed",
 			"settings": {
 				"foreground": "#5719a7",
-				"fontStyle": ""
 			}
 		},
 		{

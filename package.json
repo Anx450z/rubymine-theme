@@ -4,7 +4,7 @@
   "description": "Set of Dark and Light themes for vs code",
   "publisher": "anx450z",
   "repository": "https://github.com/Anx450z/rubymine-theme",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "icon": "icons/ruby_theme_icon.png",
   "engines": {
     "vscode": "^1.77.0"
@@ -28,6 +28,11 @@
         "label": "Ruby Daylight",
         "uiTheme": "vs",
         "path": "./themes/Ruby Light-color-theme.json"
+      },
+      {
+        "label": "Ruby Daylight No font style",
+        "uiTheme": "vs",
+        "path": "./themes/Ruby Light-color-themeNoFontStyle.json"
       },
       {
         "label": "Ruby Moonlight",
