@@ -928,7 +928,7 @@
 				"entity.name.type.numeric.rust"
 			],
 			"settings": {
-				"foreground": "#ff0000",
+				"foreground": "#016999",
 			}
 		},
 		{
@@ -936,7 +936,7 @@
 				"keyword.operator",
 			],
 			"settings": {
-				"foreground": "#dd8500",
+				"foreground": "#dd0000",
 			}
 		},
 		{
@@ -1088,7 +1088,7 @@
 				"meta.property-name.css",
 			],
 			"settings": {
-				"foreground": "#005583",
+				"foreground": "#d43c00",
 			}
 		},
 		{
@@ -1173,7 +1173,7 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#012063",
+				"foreground": "#2d4881",
 			}
 		},
 		{

@@ -930,7 +930,7 @@
 				"entity.name.type.numeric.rust"
 			],
 			"settings": {
-				"foreground": "#ff0000",
+				"foreground": "#016999",
 				// "fontStyle": "italic"
 			}
 		},
@@ -939,7 +939,7 @@
 				"keyword.operator",
 			],
 			"settings": {
-				"foreground": "#dd8500",
+				"foreground": "#dd0000",
 				"fontStyle": ""
 			}
 		},
@@ -1101,7 +1101,7 @@
 				"meta.property-name.css",
 			],
 			"settings": {
-				"foreground": "#005583",
+				"foreground": "#d43c00",
 				"fontStyle": ""
 			}
 		},
@@ -1192,7 +1192,7 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#012063",
+				"foreground": "#2d4881",
 				// "fontStyle": "italic"
 			}
 		},
