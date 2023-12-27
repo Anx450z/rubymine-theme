@@ -974,7 +974,7 @@
 				"variable.parameter",
 			],
 			"settings": {
-				"foreground": "#0167ff",
+				"foreground": "#da3300",
 				"fontStyle": ""
 			}
 		},
@@ -1101,7 +1101,7 @@
 				"meta.property-name.css",
 			],
 			"settings": {
-				"foreground": "#d43c00",
+				"foreground": "#86003f",
 				"fontStyle": ""
 			}
 		},
