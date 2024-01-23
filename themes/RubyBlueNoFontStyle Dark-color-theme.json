@@ -54,7 +54,7 @@
 		//"charts.red": "#f14c4c",
 		//"charts.yellow": "#cca700",
 		//"checkbox.background": "#20262e",
-		//"checkbox.border": "#20262e",
+		"checkbox.border": "#5f5f5f",
 		//"checkbox.foreground": "#f0f0f0",
 		//"checkbox.selectBackground": "#2b2d30",
 		//"checkbox.selectBorder": "#2b2d30",
