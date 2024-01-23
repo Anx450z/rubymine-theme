@@ -744,7 +744,7 @@
 		//"tab.unfocusedHoverBackground": null,
 		//"tab.unfocusedHoverBorder": null,
 		//"tab.unfocusedHoverForeground": null,
-		"terminal.background": "#101113",
+		"terminal.background": "#16181b",
 		//"terminal.findMatchBorder": null,
 		//"terminal.findMatchHighlightBorder": null,
 		//"terminal.selectionForeground": null,
