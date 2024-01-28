@@ -908,8 +908,8 @@
 				"variable.other.readwrite",
 			],
 			"settings": {
-				"foreground": "#ffffec",
-				"fontStyle": ""
+				"foreground": "#c3ecffb0",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -948,7 +948,7 @@
 				"keyword.other.unit.px.css"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#d4ffba"
 			}
 		},
 		{
@@ -999,7 +999,7 @@
 				"support.class.ruby",
 			],
 			"settings": {
-				"foreground": "#fd9d49",
+				"foreground": "#fd6449",
 				"fontStyle": "bold"
 			}
 		},

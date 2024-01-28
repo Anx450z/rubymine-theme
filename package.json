@@ -4,7 +4,7 @@
   "description": "Set of Dark and Light themes for vs code",
   "publisher": "anx450z",
   "repository": "https://github.com/Anx450z/rubymine-theme",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "icon": "icons/ruby_theme_icon.png",
   "engines": {
     "vscode": "^1.77.0"

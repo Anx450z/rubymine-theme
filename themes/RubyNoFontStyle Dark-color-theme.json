@@ -902,7 +902,7 @@
 				"variable.other.readwrite",
 			],
 			"settings": {
-				"foreground": "#ffffec",
+				"foreground": "#c3ecffb0",
 			}
 		},
 		{
@@ -939,7 +939,7 @@
 				"keyword.other.unit.px.css"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#d4ffba"
 			}
 		},
 		{
@@ -988,7 +988,7 @@
 				"support.class.ruby",
 			],
 			"settings": {
-				"foreground": "#fd9d49",
+				"foreground": "#fd6449",
 			}
 		},
 		{
