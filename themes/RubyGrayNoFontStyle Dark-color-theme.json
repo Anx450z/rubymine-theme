@@ -944,9 +944,6 @@
 		},
 		{
 			"scope": [
-				"meta.class.ruby",
-				"entity.name.type.class.ruby",
-				"entity.other.inherited-class.ruby",
 				"entity.name.type.module",
 				"meta.module.ruby",
 				"comment.line.type.yard",
@@ -980,12 +977,14 @@
 				"entity.other.inherited-class.ruby",
 			],
 			"settings": {
-				"foreground": "#91d5ff",
+				"foreground": "#009dff",
 			}
 		},
 		{
 			"scope": [
 				"support.class.ruby",
+				"meta.class.ruby",
+				"entity.name.type.class.ruby",
 			],
 			"settings": {
 				"foreground": "#fd6449",
