@@ -65,5 +65,8 @@
         "path": "./themes/RubyRedNoFontStyle Dark-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "esbuild": "^0.21.4"
   }
 }
