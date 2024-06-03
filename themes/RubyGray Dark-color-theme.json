@@ -1014,7 +1014,7 @@
 		{
 			"scope": [
 				"constant.other.symbol.ruby",
-				"constant.language.symbol",
+				// "constant.language.symbol",
 				"constant.other.symbol.hashkey.ruby",
 				"markup.underline.link.markdown",
 				"meta.link.inline.markdown",
@@ -1025,6 +1025,15 @@
 			],
 			"settings": {
 				"foreground": "#7db2cf",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"constant.language.symbol",
+			],
+			"settings": {
+				"foreground": "#c5c5c5",
 				"fontStyle": ""
 			}
 		},
