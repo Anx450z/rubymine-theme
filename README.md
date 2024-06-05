@@ -18,17 +18,25 @@ You can install this theme via the VSCode Marketplace or by searching for it wit
 
 Here are some screenshots of the theme in action:
 
-Midnight
-
-<img src="screenshots/screenshot1.png" alt="midnight" width="750px">
-
 Moonlight
 
-<img src="screenshots/screenshot2.png" alt="midnight" width="750px">
+<img src="screenshots/Screenshot1.png" alt="midnight" width="750px">
 
-Steelblue
+Midnight
 
-<img src="screenshots/screenshot3.png" alt="midnight" width="750px">
+<img src="screenshots/Screenshot2.png" alt="midnight" width="750px">
+
+Red
+
+<img src="screenshots/Screenshot3.png" alt="midnight" width="750px">
+
+Steel BLue
+
+<img src="screenshots/Screenshot4.png" alt="midnight" width="750px">
+
+Daylight
+
+<img src="screenshots/Screenshot5.png" alt="midnight" width="750px">
 
 ## Customization
 
