@@ -991,7 +991,7 @@
 				"entity.other.inherited-class.ruby",
 			],
 			"settings": {
-				"foreground": "#009dff",
+				"foreground": "#3da4e4",
 				"fontStyle": "bold"
 			}
 		},
@@ -1002,7 +1002,7 @@
 				"entity.name.type.class.ruby",
 			],
 			"settings": {
-				"foreground": "#fd6449",
+				"foreground": "#ff8069",
 				"fontStyle": "bold"
 			}
 		},
@@ -1037,7 +1037,7 @@
 				"constant.language.symbol",
 			],
 			"settings": {
-				"foreground": "#c5c5c5",
+				"foreground": "#7b91a4",
 				"fontStyle": ""
 			}
 		},
@@ -1061,8 +1061,8 @@
 				"variable.other.readwrite.global",
 			],
 			"settings": {
-				"foreground": "#ff9cae",
-				// "fontStyle": "italic"
+				"foreground": "#c88bdc",
+				"fontStyle": ""
 			}
 		},
 		{
