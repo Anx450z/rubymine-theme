@@ -4,7 +4,7 @@
   "description": "Set of Dark and Light themes for vs code",
   "publisher": "anx450z",
   "repository": "https://github.com/Anx450z/rubymine-theme",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "icon": "icons/ruby_theme_icon.png",
   "engines": {
     "vscode": "^1.77.0"
@@ -14,6 +14,16 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Ruby Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ruby Dusk-color-theme.json"
+      },
+      {
+        "label": "Ruby Dusk No font style",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ruby DuskNoFontStyle-color-theme.json"
+      },
       {
         "label": "Ruby Midnight",
         "uiTheme": "vs-dark",
